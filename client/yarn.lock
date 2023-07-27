@@ -1613,7 +1613,7 @@
     "@tanstack/query-core" "4.32.0"
     "use-sync-external-store" "^1.2.0"
 
-"@thirdweb-dev/chains@0.1.38":
+"@thirdweb-dev/chains@^0.1.38", "@thirdweb-dev/chains@0.1.38":
   "integrity" "sha512-XiH/2X5Hgs50fWMX0u4pB/hv2dZSnFSDwF1i54YViDv1Ydganzwt2PEK1Fct0u4Oz8FHww2ybc459FDNaRBnew=="
   "resolved" "https://registry.npmjs.org/@thirdweb-dev/chains/-/chains-0.1.38.tgz"
   "version" "0.1.38"
